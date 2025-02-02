@@ -1,2 +1,2 @@
-# Java-Project
+# Projects
 Number Guessing Game
