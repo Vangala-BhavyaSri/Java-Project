@@ -1,2 +1,1 @@
 # Projects
-Number Guessing Game
